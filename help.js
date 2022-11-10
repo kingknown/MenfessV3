@@ -724,11 +724,11 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Ovo*
-Number: 085797375014
+Number: ChatOwner
 A/N: King
 
 *Payment Dana*
-Number: 085797375014
+Number: chatOwner
 A/N: King
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
@@ -750,7 +750,7 @@ _iam developer bot whatsapp._
 
  *Sosial Media*
  • *Whatsapp:* 085797375014
- • *Youtube:* Lexxy Official
- • *Github:* Lexxy24
+ • *Instagram:* ChatOwner
+ • *Github:* ChatOwner
  `
 }
